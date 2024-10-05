@@ -7,7 +7,7 @@
   "description": "Portfolio website for colab",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
