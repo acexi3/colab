@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "sass": "^1.79.4"
+  },
+  "name": "colab",
+  "version": "1.0.0",
+  "description": "Portfolio website for colab",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acexi3/colab.git"
+  },
+  "author": "Colab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acexi3/colab/issues"
+  },
+  "homepage": "https://github.com/acexi3/colab#readme"
+}
