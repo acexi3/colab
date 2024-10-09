@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0a9f0d5-684c-45fb-be31-92aec50b2f93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,11 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/index.html" />
+    </disable_hints>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +70,10 @@
       <updated>1728148428618</updated>
       <workItem from="1728148428622" duration="2218000" />
       <workItem from="1728150682084" duration="1791000" />
-      <workItem from="1728170756157" duration="1102000" />
+      <workItem from="1728170756157" duration="1884000" />
+      <workItem from="1728509653005" duration="2929000" />
+      <workItem from="1728513208252" duration="210000" />
+      <workItem from="1728513430165" duration="393000" />
     </task>
     <servers />
   </component>
